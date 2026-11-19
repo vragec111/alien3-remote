@@ -1,0 +1,13 @@
+
+{
+  "name": "alien3-remote",
+  "version": "1.0.0",
+  "description": "Private Alien 3 game controller relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
